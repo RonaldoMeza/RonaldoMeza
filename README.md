@@ -120,28 +120,50 @@ Here are some ideas to get you started:
 
 <!-- 🧰 Tools -->
 <h5 align="center"><b>Tools</b></h5>
+
 <p align="center">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://developer.android.com/studio" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="40" height="40"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/></a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="35" height="35"/></a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij idea" width="35" height="35"/></a>
+  <a href="https://git-scm.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35"/>
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+  </a>
+  <a href="https://developer.android.com/studio">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="35"/>
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="35"/>
+  </a>
+  <a href="https://visualstudio.microsoft.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="35"/>
+  </a>
+  <a href="https://www.jetbrains.com/idea/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="35"/>
+  </a>
+  <a href="https://developer.apple.com/xcode/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" width="35"/>
+  </a>
 </p>
 
 
 <br><br>
 <h2 align="center">Connect with Me! 🤝 </h2> 
+
 <p align="center">
-	<!-- LinkedIn -->
-	<a href="https://www.linkedin.com/in/ronaldo-meza-pastrana/" target="_blank">
-	  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" />
-	</a>
-	</a>
-	<!-- YouTube -->
-	<a href="https://www.youtube.com/@DevRNK_0512" target="_blank">
-	  <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="youtube" />
-	</a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ronaldo-meza-pastrana/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@DevRNK_0512">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" />
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/51950512597">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 <br><br>
