@@ -30,31 +30,24 @@ Here are some ideas to get you started:
 <h5 align="center"><b>Languages</b></h5>
 <p align="center">
   <span style="display: inline-flex; align-items: center; gap: 10px;">
-
     <a href="https://www.java.com" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
     </a>
-
     <a href="https://kotlinlang.org/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="35" height="35"/>
     </a>
-
     <a href="https://www.w3schools.com/cs/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="35" height="35"/>
     </a>
-
     <a href="https://www.w3schools.com/cpp/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/>
     </a>
-
     <a href="https://www.python.org" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/>
     </a>
-
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
     </a>
-
   </span>
 </p>
 
