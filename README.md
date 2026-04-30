@@ -47,6 +47,17 @@ Here are some ideas to get you started:
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/>
   </a>
+
+  <!-- NUEVOS -->
+  <a href="https://dart.dev">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="35"/>
+  </a>
+  <a href="https://developer.apple.com/swift/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="35"/>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35"/>
+  </a>
 </p>
 
 <!-- 🎨 Frontend -->
